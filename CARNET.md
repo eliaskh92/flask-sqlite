@@ -1,12 +1,12 @@
 # 📒 Mon carnet de bord
 
-**Nom :** 
+**Nom :** Khaoua   
 
-**Prénom :** 
+**Prénom :** Elias
 
-**Adresse de mon site :** https://______.pythonanywhere.com
+**Adresse de mon site :** https://volodimir57.pythonanywhere.com
 
-**Adresse de mon dépôt GitHub :** https://github.com/______
+**Adresse de mon dépôt GitHub :** https://github.com/eliaskh92
 
 > Modifiez ce fichier directement sur GitHub (icône crayon ✏️) pour répondre aux questions de chaque exercice.
 > Écrivez avec vos propres mots : une réponse courte et juste vaut mieux qu'un long copier-coller ! 🙂
@@ -17,11 +17,11 @@
 
 1. Expliquez avec vos mots la différence entre une **table**, une **colonne** et une **ligne**.
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ La table contients contient les donnes de la db ,ele contien des colonne et des ligne. les colonne cest a la verticale elle contien les type de donne et les les lignes contiennent les elements.
 
 2. À quoi sert la clé primaire `id` ? Pourquoi ne pas simplement identifier un client par son nom ?
 
-   > _Ma réponse :_ 
+   > _Ma réponse :_ Car 2 clients peuvent avoir le meme nom.
 
 3. Pourquoi votre client ajouté en console est-il apparu sur le site ?
 
