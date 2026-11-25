@@ -24,11 +24,11 @@
         </tr>
         {% for row in data %}
         <tr>
-            <td>{{ row[id] }}</td>
-            <td>{{ row[created] }}</td>
+            <td>{{ row['id'] }}</td>
+            <td>{{ row['created'] }}</td>
             <td><a href="/fiche_client/{{ row['id'] }}">{{ row['nom'] }}</a></td>
              <td>{{ row['prenom'] }}</td>
-            <td>{{ row[adresse] }}</td>
+            <td>{{ row['adresse'] }}</td>
         </tr>
         {% endfor %}
     </table>
