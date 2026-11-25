@@ -19,8 +19,7 @@
         <tr>
             <td>{{ row[id] }}</td>
             <td>{{ row[created] }}</td>
-            <td>{{ row[nom] }}</td>
-            <td>{{ row[prenom] }}</td>
+            <td><a href="/fiche_client/{{ row['id'] }}">{{ row['nom'] }}</a></td>
             <td>{{ row[adresse] }}</td>
         </tr>
         {% endfor %}
